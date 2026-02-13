@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello-world.md",
+                "file": "scss-to-lightning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hello-world"
+              "title": "scss-to-lightning"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "191e5a228fa65ea6",
@@ -191,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "984bb96bfaabdafd",
+  "active": "25471fab5aff5b34",
   "lastOpenFiles": [
-    "hello-world.md"
+    "hello-world.md",
+    "scss-to-lightning.md"
   ]
 }
